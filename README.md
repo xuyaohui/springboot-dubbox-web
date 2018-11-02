@@ -15,3 +15,6 @@ https://github.com/zhangxd1989/springboot-dubbox 前端管理
 >grunt build:angular
 >npm start
 ```
+
+执行后运行项目前端地址为：
+http://127.0.0.1:8091/angular
